@@ -1,6 +1,6 @@
 //tanggal pengerjaan : 06/08/2022
-//nim                : 10119283
-//nama               : Rahmatullah Rizki
+//nim                : 10119269
+//nama               : Zuhair Rasyid Wafi
 //kelas              : IF7
 package com.kilocrab.tugasbesarakbif_7wilokadev.ui.map;
 
