@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "779663142529",
+    "firebase_url": "https://tugas-besar-akb-if-7-wil-bd4c5-default-rtdb.firebaseio.com",
+    "project_id": "tugas-besar-akb-if-7-wil-bd4c5",
+    "storage_bucket": "tugas-besar-akb-if-7-wil-bd4c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779663142529:android:e609c5b61b9ba2c34a2780",
+        "android_client_info": {
+          "package_name": "com.example.tugasbesarakbif_7wilokadev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779663142529-jc1q8pr3fn5n8gnf7qvcj3c40hnplmji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATR_6r2XDZAI2CTmGnUUAy2lagXhE920U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779663142529-jc1q8pr3fn5n8gnf7qvcj3c40hnplmji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779663142529:android:af078533527d2fa94a2780",
+        "android_client_info": {
+          "package_name": "com.kilocrab.tugasbesarakbif_7wilokadev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779663142529-jc1q8pr3fn5n8gnf7qvcj3c40hnplmji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATR_6r2XDZAI2CTmGnUUAy2lagXhE920U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779663142529-jc1q8pr3fn5n8gnf7qvcj3c40hnplmji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

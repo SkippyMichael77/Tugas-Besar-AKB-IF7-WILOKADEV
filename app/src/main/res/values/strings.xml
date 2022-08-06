@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tugas Besar AKB IF-7 WILOKADEV</string>
+    <string name="title_home">Home</string>
+    <string name="title_map">Map</string>
+    <string name="title_team">Who Are We</string>title_team
+    <string name="title_about">About App</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
